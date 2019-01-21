@@ -1,0 +1,34 @@
+/*!
+ * print.css v1.0.0
+ * http://printstylesheet.com/
+ *
+ * Copyright (c) 2011 David Bushell
+ * Dual licensed under the BSD or MIT licenses: http://printstylesheet.com/license.txt
+ 
+ * Author: David Bushell
+ * http://dbushell.com/
+ */
+
+/* use a media query to limit the CSS to only print devices, like a printer */
+@media only print {
+	#masthead,
+	#rightcontent,
+	#slider-section,
+	.breadcrumb,
+	.meta,
+	.share-print,
+	.post-widget,
+	.share-widget.social.share-widget,
+	.article-footer,
+	.widget.about-author,
+	.related-article-widget,
+	#comment-form,
+	#colophone,
+	.single-post-meta {
+		display: none;
+	}
+
+	#leftcontent {
+		width: 100%;
+	}
+}

@@ -1,0 +1,975 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Encyclopedia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-02 19:07+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <Mail@DennisHoppe.de>\n"
+"Language-Team: Dennis Hoppe <Mail@DennisHoppe.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/options.php:19 ../options-page/options-page.php:5
+#, php-format
+msgid "%s Settings"
+msgstr "Einstellungen &rsaquo; %s"
+
+#: ../classes/options.php:30
+msgid "Labels"
+msgstr "Beschriftungen"
+
+#: ../classes/options.php:32
+msgid "Features"
+msgstr "Funktionen"
+
+#: ../classes/options.php:33
+msgid "Taxonomies"
+msgstr "Klassifizierungen"
+
+#: ../classes/options.php:34
+msgid "Archives"
+msgstr "Archive"
+
+#: ../classes/options.php:35
+msgid "Search"
+msgstr "Suche"
+
+#: ../classes/options.php:36
+msgid "Single View"
+msgstr "Einzelansicht"
+
+#: ../classes/options.php:37
+msgid "Cross Linking"
+msgstr "Querverlinkungen"
+
+#: ../classes/options.php:38 ../options-page/tooltips.php:6
+msgid "Tooltips"
+msgstr "Tooltips"
+
+#: ../classes/options.php:39
+msgid "User Permissions"
+msgstr "Benutzerberechtigungen"
+
+#: ../classes/options.php:40
+msgid "Archive URLs"
+msgstr "Archiv URLs"
+
+#: ../classes/options.php:41
+msgid "License"
+msgstr "Lizenz"
+
+#: ../classes/options.php:137
+msgid "Encyclopedia"
+msgstr "Enzyklopädie"
+
+#: ../classes/options.php:138
+msgid "Entry"
+msgstr "Eintrag"
+
+#: ../classes/options.php:139
+msgid "Entries"
+msgstr "Einträge"
+
+#: ../classes/options.php:140 ../classes/options.php:141
+msgctxt "URL slug"
+msgid "encyclopedia"
+msgstr "enzyklopaedie"
+
+#: ../classes/post-type.php:21
+#, php-format
+msgid "Add %s"
+msgstr "%s hinzufügen"
+
+#: ../classes/post-type.php:22
+#, php-format
+msgid "New %s"
+msgstr "%s erstellen"
+
+#: ../classes/post-type.php:23
+#, php-format
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: ../classes/post-type.php:24
+#, php-format
+msgid "View %s"
+msgstr "%s ansehen"
+
+#: ../classes/post-type.php:25
+#, php-format
+msgid "Search %s"
+msgstr "%s durchsuchen"
+
+#: ../classes/post-type.php:26
+#, php-format
+msgid "No %s found"
+msgstr "Keine %s gefunden"
+
+#: ../classes/post-type.php:27
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Keine %s im Papierkorb gefunden."
+
+#: ../classes/post-type.php:28
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: ../classes/post-type.php:29
+#, php-format
+msgid "%s Index Page"
+msgstr "%s-Übersichtsseite"
+
+#: ../classes/post-type.php:115
+#, php-format
+msgid "%1$s updated. (<a href=\"%2$s\">View %1$s</a>)"
+msgstr "%1$s aktualisiert. (<a href=\"%2$s\">%1$s ansehen</a>)"
+
+#: ../classes/post-type.php:118
+#, php-format
+msgid "%s updated."
+msgstr "%s aktualisiert."
+
+#: ../classes/post-type.php:119
+#, php-format
+msgid "%1$s restored to revision from %2$s"
+msgstr "%1$s auf den Stand von %2$s zurückgesetzt"
+
+#: ../classes/post-type.php:120
+#, php-format
+msgid "%1$s published. (<a href=\"%2$s\">View %1$s</a>)"
+msgstr "%1$s veröffentlicht. (<a href=\"%2$s\">%1$s ansehen</a>)"
+
+#: ../classes/post-type.php:121
+#, php-format
+msgid "%s saved."
+msgstr "%s gespeichert."
+
+#: ../classes/post-type.php:122
+#, php-format
+msgid "%s submitted."
+msgstr "%s eingereicht."
+
+#: ../classes/post-type.php:123
+#, php-format
+msgid "%1$s scheduled. (<a target=\"_blank\" href=\"%2$s\">View %1$s</a>)"
+msgstr "%1$s angelegt. (<a target=\"_blank\" href=\"%2$s\">%1$s ansehen</a>)"
+
+#: ../classes/post-type.php:124
+#, php-format
+msgid "Draft updated. (<a target=\"_blank\" href=\"%1$s\">Preview %2$s</a>)"
+msgstr ""
+"Entwurf gespeichert. (<a target=\"_blank\" href=\"%1$s\">%2$s ansehen</a>)"
+
+#: ../classes/taxonomies.php:25 ../options-page/taxonomies.php:5
+msgid "Categories"
+msgstr "Kategorien"
+
+#: ../classes/taxonomies.php:26
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../classes/taxonomies.php:27
+msgid "Search Categories"
+msgstr "Kategorien durchsuchen"
+
+#: ../classes/taxonomies.php:28
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: ../classes/taxonomies.php:29
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+#: ../classes/taxonomies.php:30
+msgid "Parent Category:"
+msgstr "Übergeordnete Kategorie:"
+
+#: ../classes/taxonomies.php:31
+msgid "Edit Category"
+msgstr "Kategorie bearbeiten"
+
+#: ../classes/taxonomies.php:32
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+#: ../classes/taxonomies.php:33
+msgid "Add New Category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: ../classes/taxonomies.php:34
+msgid "New Category"
+msgstr "Neue Kategorie"
+
+#: ../classes/taxonomies.php:38
+#, php-format
+msgid "%s: Categories"
+msgstr "%s: Kategorien"
+
+#: ../classes/taxonomies.php:46
+#, php-format
+msgctxt "URL slug"
+msgid "%s/category"
+msgstr "%s/kategorie"
+
+#: ../classes/taxonomies.php:71 ../options-page/taxonomies.php:16
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: ../classes/taxonomies.php:72
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: ../classes/taxonomies.php:73
+msgid "Search Tags"
+msgstr "Schlagworte durchsuchen"
+
+#: ../classes/taxonomies.php:74
+msgid "All Tags"
+msgstr "Alle Schlagworte"
+
+#: ../classes/taxonomies.php:75
+msgid "Edit Tag"
+msgstr "Schlagwort bearbeiten"
+
+#: ../classes/taxonomies.php:76
+msgid "Update Tag"
+msgstr "Schlagwort aktualisieren"
+
+#: ../classes/taxonomies.php:77
+msgid "Add New Tag"
+msgstr "Neues Schlagwort hinzufügen"
+
+#: ../classes/taxonomies.php:78
+msgid "New Tag"
+msgstr "Neues Schlagwort"
+
+#: ../classes/taxonomies.php:82
+#, php-format
+msgid "%s: Tags"
+msgstr "%s: Schlagworte"
+
+#: ../classes/taxonomies.php:90
+#, php-format
+msgctxt "URL slug"
+msgid "%s/tag"
+msgstr "%s/schlagwort"
+
+#: ../classes/taxonomies.php:149
+msgid "Archive Url"
+msgstr "Archiv Url"
+
+#: ../classes/taxonomies.php:152
+#, php-format
+msgid "This is the URL to the archive of this %s."
+msgstr "Das ist die URL des %s-Archives."
+
+#: ../classes/taxonomies.php:156
+msgid "Archive Feed"
+msgstr "Archiv Feed"
+
+#: ../classes/taxonomies.php:159
+#, php-format
+msgid "This is the URL to the feed of the archive of this %s."
+msgstr "Das ist die URL zum RSS Feed des %s-Archives."
+
+#: ../classes/updates.php:52
+#, php-format
+msgid ""
+"You have not setup your license for <strong>%s</strong>. Please enter your "
+"license data on the <strong>settings page</strong>."
+msgstr ""
+"Du hast deine Lizenzdaten für <strong>%s</strong> noch nicht hinterlegt. "
+"Bitte trage die Lizenzdaten auf der <strong>Einstellungsseite</strong> ein."
+
+#: ../classes/updates.php:68
+#, php-format
+msgid ""
+"Wrong username or password for %s. Please check the license data on the "
+"settings page of the plugin. Then run the update again."
+msgstr ""
+"Falscher Benutzer oder falsches Passwort für %s. Bitte prüfe die Lizenzdaten "
+"auf der Einstellungsseite des Plugins und starte die Aktualisierung erneut."
+
+#: ../classes/updates.php:71
+#, php-format
+msgid ""
+"You are not allowed to download this plugin. Please check on %s if your "
+"update subscription has expired."
+msgstr ""
+"Du hast keine Berechtigung, dieses Plugin herunterzuladen. Bitte prüfe auf "
+"%s ob dein Aktualisierungsabonnement abgelaufen ist."
+
+#: ../options-page/appearance.php:6
+msgid "Default style"
+msgstr "Standard CSS"
+
+#: ../options-page/appearance.php:9 ../options-page/archive-page.php:16
+#: ../options-page/features.php:8 ../options-page/features.php:19
+#: ../options-page/features.php:30 ../options-page/features.php:41
+#: ../options-page/features.php:52 ../options-page/features.php:63
+#: ../options-page/features.php:74 ../options-page/search.php:8
+#: ../options-page/single-page.php:25 ../options-page/taxonomies.php:8
+#: ../options-page/taxonomies.php:19 ../options-page/tooltips.php:9
+msgid "On"
+msgstr "An"
+
+#: ../options-page/appearance.php:10 ../options-page/archive-page.php:17
+#: ../options-page/features.php:9 ../options-page/features.php:20
+#: ../options-page/features.php:31 ../options-page/features.php:42
+#: ../options-page/features.php:53 ../options-page/features.php:64
+#: ../options-page/features.php:75 ../options-page/search.php:9
+#: ../options-page/single-page.php:26 ../options-page/taxonomies.php:9
+#: ../options-page/taxonomies.php:20 ../options-page/tooltips.php:10
+msgid "Off"
+msgstr "Aus"
+
+#: ../options-page/appearance.php:12
+msgid "Enables or disables the encyclopedia default CSS on the frontend."
+msgstr ""
+"Aktiviert oder deaktiviert das Standard CSS der Enzyklopädie im Frontend."
+
+#: ../options-page/archive-link.php:4
+#, php-format
+msgid "The archive url is: <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr "Der Archiv-Link lautet: <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+
+#: ../options-page/archive-link.php:8
+#, php-format
+msgid "The RSS feed url is: <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr ""
+"Der Archiv-Link zum RSS Feed lautet: <a href=\"%1$s\" target=\"_blank\">"
+"%1$s</a>"
+
+#: ../options-page/archive-page.php:5
+#, php-format
+msgid "%s per page"
+msgstr "%s pro Seite"
+
+#: ../options-page/archive-page.php:8
+#, php-format
+msgid "This option affects all %s archive pages."
+msgstr "Diese Einstellung betrifft alle %s-Übersichtsseiten (Archive)."
+
+#: ../options-page/archive-page.php:13 ../options-page/single-page.php:22
+msgid "Prefix filter"
+msgstr "Präfixfilter"
+
+#: ../options-page/archive-page.php:19
+msgid ""
+"Enables or disables the prefix filter above the first item in the archive."
+msgstr ""
+"Aktiviert oder deaktiviert den Präfixfilter über dem ersten Element des "
+"Archivs."
+
+#: ../options-page/archive-page.php:24 ../options-page/single-page.php:33
+msgid "Prefix filter depth"
+msgstr "Präfixfiltertiefe"
+
+#: ../options-page/archive-page.php:27 ../options-page/single-page.php:36
+msgid ""
+"The depth of the prefix filter is usually the number of rows with prefixes "
+"which are shown."
+msgstr ""
+"Die Tiefe des Filters ist für gewöhnlich die Anzahl der Zeilen mit "
+"verfügbaren Präfixen, die angezeigt werden."
+
+#: ../options-page/capabilities.php:14
+msgid "Enable advanced user capabilities"
+msgstr "Erweiterte Benutzerrechte aktivieren"
+
+#: ../options-page/capabilities.php:22
+#, php-format
+msgid "Edit and create %s"
+msgstr "%s erstellen und bearbeiten"
+
+#: ../options-page/capabilities.php:23
+#, php-format
+msgid "Edit others %s"
+msgstr "Fremde %s bearbeiten"
+
+#: ../options-page/capabilities.php:24
+#, php-format
+msgid "Edit private %s"
+msgstr "Private %s bearbeiten"
+
+#: ../options-page/capabilities.php:25
+#, php-format
+msgid "Edit published %s"
+msgstr "Veröffentlichte %s bearbeiten"
+
+#: ../options-page/capabilities.php:27
+#, php-format
+msgid "Delete %s"
+msgstr "%s löschen"
+
+#: ../options-page/capabilities.php:28
+#, php-format
+msgid "Delete private %s"
+msgstr "Private %s löschen"
+
+#: ../options-page/capabilities.php:29
+#, php-format
+msgid "Delete published %s"
+msgstr "Veröffentlichte %s löschen"
+
+#: ../options-page/capabilities.php:30
+#, php-format
+msgid "Delete others %s"
+msgstr "Fremde %s löschen"
+
+#: ../options-page/capabilities.php:32
+#, php-format
+msgid "Publish %s"
+msgstr "%s veröffentlichen"
+
+#: ../options-page/capabilities.php:33
+#, php-format
+msgid "View others private %s"
+msgstr "Fremde private %s ansehen"
+
+#: ../options-page/capabilities.php:41
+#, php-format
+msgid "Manage %s"
+msgstr "%s verwalten"
+
+#: ../options-page/cross-linking.php:18
+#, php-format
+msgid "Add links in %s"
+msgstr "%s mit Querverlinkungen versehen"
+
+#: ../options-page/cross-linking.php:23
+msgid "Open link in a new window/tab"
+msgstr "Link in neuem Fenster/Tab öffnen"
+
+#: ../options-page/cross-linking.php:30
+msgid "Text Widget"
+msgstr "Text-Widget"
+
+#: ../options-page/cross-linking.php:34
+msgid "Add links in the default text widget"
+msgstr "Text-Widget mit Querverlinkungen versehen"
+
+#: ../options-page/cross-linking.php:40
+msgid "Minimum length"
+msgstr "Mindestlänge"
+
+#: ../options-page/cross-linking.php:43
+msgid "characters"
+msgstr "Zeichen"
+
+#: ../options-page/cross-linking.php:44
+msgid ""
+"The minimum length of cross linked words. Shorter words <u>will not be</u> "
+"cross linked automatically."
+msgstr ""
+"Die minimale Länge für Querverlinkungen. Kürzere Wörter <u>werden nicht</u> "
+"automatisch verlinkt."
+
+#: ../options-page/cross-linking.php:49
+msgid "Filter order"
+msgstr "Filterreihenfolge"
+
+#: ../options-page/cross-linking.php:53
+msgid "Before shortcodes"
+msgstr "Vor den Shortcodes"
+
+#: ../options-page/cross-linking.php:54
+msgid "After shortcodes"
+msgstr "Nach den Shortcodes"
+
+#: ../options-page/cross-linking.php:57
+msgid ""
+"By default the cross links should be added to the content after rendering "
+"all shortcodes. This works not for shortcodes which are calling the "
+"\"the_content\" filter while rendering. In this case please change this "
+"setting to \"Before shortcodes\"."
+msgstr ""
+"Normalerweise werden die Querverlinkungen nach dem Ausführen aller "
+"Shortcodes hinzugefügt. Das funktioniert leider nicht für Shortcodes, die "
+"den \"the_content\"-Filter benutzen. In diesen Fällen setzt du diese "
+"Einstellung bitte auf \"Vor den Shortcodes\"."
+
+#: ../options-page/cross-linking.php:62
+msgid "Complete words"
+msgstr "Ganze Wörter"
+
+#: ../options-page/cross-linking.php:66
+msgid "Link complete words only."
+msgstr "Nur ganze Wörter verlinken."
+
+#: ../options-page/cross-linking.php:72
+msgid "Case sensitivity"
+msgstr "Groß-/Kleinschreibung"
+
+#: ../options-page/cross-linking.php:76
+msgid "Link items case sensitive."
+msgstr "Die Groß-/Kleinschreibung bei der Verlinkung berücksichtigen."
+
+#: ../options-page/cross-linking.php:82
+msgid "First match only"
+msgstr "Erstes Vorkommen"
+
+#: ../options-page/cross-linking.php:86
+msgid "Link the first match of each item only."
+msgstr "Nur das erste Vorkommen jedes Treffers verlinken."
+
+#: ../options-page/cross-linking.php:92
+msgid "Recursion"
+msgstr "Rekursion"
+
+#: ../options-page/cross-linking.php:96
+msgid "Link the item in its own content."
+msgstr "Elemente in ihrem eigenen Inhalt verlinken."
+
+#: ../options-page/cross-linking.php:102
+msgid "Link title length"
+msgstr "Länge des Linktitels"
+
+#: ../options-page/cross-linking.php:105
+msgid "words"
+msgstr "Wörter"
+
+#: ../options-page/cross-linking.php:106
+msgid ""
+"The number of words of the linked item used as link title. This option does "
+"not affect manually created excerpts."
+msgstr ""
+"Anzahl der Wörter, des verlinkten Elementes, die als Linktitel verwendet "
+"werden sollen. Diese Option greift nicht für manuell erstellte Testauszüge. "
+"Manuelle Textauszüge werden immer immer komplett dargestellt."
+
+#: ../options-page/features.php:5
+msgid "Text Editor"
+msgstr "Editor"
+
+#: ../options-page/features.php:11
+msgid "Enables or disables the text editor."
+msgstr "Aktiviert oder deaktiviert den Texteditor."
+
+#: ../options-page/features.php:16
+msgid "Block Editor"
+msgstr "Block-Editor"
+
+#: ../options-page/features.php:22
+msgid "Enables or disables the block editor (Gutenberg)."
+msgstr "Aktiviert oder deaktiviert den Block-Editor (Gutenberg)."
+
+#: ../options-page/features.php:27
+msgid "Excerpt"
+msgstr "Textauszug"
+
+#: ../options-page/features.php:33
+msgid "Enables or disables the text excerpt input field."
+msgstr ""
+"Aktiviert oder deaktiviert die Möglichkeit, einen manuellen Textauszug zu "
+"verfassen."
+
+#: ../options-page/features.php:38
+msgid "Revisions"
+msgstr "Revisionen"
+
+#: ../options-page/features.php:44
+msgid "Enables or disables revisions."
+msgstr "Aktiviert oder deaktiviert die Revisionsverwaltung."
+
+#: ../options-page/features.php:49
+msgid "Comments &amp; Trackbacks"
+msgstr "Kommentare &amp; Trackbacks"
+
+#: ../options-page/features.php:55
+msgid "Enables or disables comments and trackbacks."
+msgstr "Aktiviert oder deaktiviert Kommentare und Trackbacks."
+
+#: ../options-page/features.php:60
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: ../options-page/features.php:66
+msgid "Enables or disables the featured image."
+msgstr ""
+"Aktiviert oder deaktiviert die Möglichkeit, ein Beitragsbild anzuhängen."
+
+#: ../options-page/features.php:71
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: ../options-page/features.php:77
+msgid "Enables or disables custom fields."
+msgstr "Aktiviert oder deaktiviert benutzerdefinierte Felder."
+
+#: ../options-page/license.php:3
+msgid ""
+"Please enter the license data (username and password) you got within the "
+"purchase of this plugin."
+msgstr ""
+"Bitte gib deine Lizenzdaten (Benutzername und Kennwort) ein, die du mit der "
+"Bestellbestätigung des Plugins erhalten hast."
+
+#: ../options-page/license.php:16
+msgid ""
+"When you change your username or password on our website you need to come "
+"back and update it here too."
+msgstr ""
+"Wenn du deinen Benutzernamen oder das Kennwort auf unserer Webseite änderst, "
+"musst du diese Daten auch hier aktualisieren."
+
+#: ../options-page/post-type-labels.php:6
+msgid "Encyclopedia type"
+msgstr "Enzyklopädie-Typ"
+
+#: ../options-page/post-type-labels.php:10
+msgid ""
+"This is how your encyclopedia is called in the dashboard. For example: "
+"Encyclopedia, Lexicon, Glossary, Knowledge Base, etc."
+msgstr ""
+"Das ist die Bezeichnung der Enzyklopädie im Dashboard. Z.B.: Enzyklopädie, "
+"Lexikon, Glossar, Wissensbasis, etc."
+
+#: ../options-page/post-type-labels.php:17
+msgid "Item singular name"
+msgstr "Element Singularbezeichnung"
+
+#: ../options-page/post-type-labels.php:20
+msgid ""
+"The singular name for an encyclopedia item. For example: Entry, Term, "
+"Article, etc."
+msgstr ""
+"Die Singularbezeichnung für ein Enzyklopädie-Element. Z.B.: Eintrag, "
+"Begriff, Artikel, etc."
+
+#: ../options-page/post-type-labels.php:25
+msgid "Item plural name"
+msgstr "Element Pluralbezeichnung"
+
+#: ../options-page/post-type-labels.php:28
+msgid ""
+"The plural name for multiple encyclopedia items. For example: Entries, "
+"Terms, Articles, etc."
+msgstr ""
+"Die Pluralbezeichnung für mehrere Enzyklopädie-Elemente. Z.B.: Einträge, "
+"Begriffe, Artikel, etc."
+
+#: ../options-page/post-type-labels.php:35
+msgid "Archive URL slug"
+msgstr "Archiv URL Slug"
+
+#: ../options-page/post-type-labels.php:41
+msgid ""
+"The url slug of your encyclopedia archive. This slug must not used by "
+"another post type or page."
+msgstr ""
+"Das ist der URL-Slug der Übersichtsseite. Dieser Slug darf noch von keinem "
+"Inhaltstyp und keiner Seite genutzt werden."
+
+#: ../options-page/post-type-labels.php:46
+msgid "Item URL slug"
+msgstr "Element URL-Slug"
+
+#: ../options-page/post-type-labels.php:51
+#, php-format
+msgid "/%%%s-name%%"
+msgstr "/%%%s-name%%"
+
+#: ../options-page/post-type-labels.php:55
+msgid ""
+"This option is not available if you translate the post type url slug with "
+"WPML."
+msgstr ""
+"Diese Option ist nicht verfügbar, wenn du die Post Type URL mit WPML "
+"übersetzt."
+
+#: ../options-page/post-type-labels.php:58
+msgid "The url slug of your encyclopedia items."
+msgstr "Das ist der URL-Slug der Einzelansicht."
+
+#: ../options-page/post-type-labels.php:60
+#, php-format
+msgid "You can use these placeholders: %s"
+msgstr "Du kannst diese Platzhalter verwenden: %s"
+
+#: ../options-page/search.php:5
+msgid "Query matches directly"
+msgstr "Treffer direkt aufrufen"
+
+#: ../options-page/search.php:11
+msgid ""
+"Enable this feature to redirect the user to the matched item if the user "
+"searched for an exact title."
+msgstr ""
+"Aktiviere diese Funktion, um den Benutzer auf den entsprechenden Inhalt "
+"weiterzuleiten, wenn er nach dem exakten Titel sucht."
+
+#: ../options-page/search.php:16
+msgid "Autocomplete min length"
+msgstr "Mindesteingabe bei Autovervollständigung"
+
+#: ../options-page/search.php:18
+msgctxt "characters unit"
+msgid "characters"
+msgstr "Zeichen"
+
+#: ../options-page/search.php:19
+msgid ""
+"The minimum number of characters a user must type before suggestions will be "
+"shown."
+msgstr ""
+"Die Mindestanzahl an eingegebenen Zeichen bevor Vorschläge angezeigt werden."
+
+#: ../options-page/search.php:24
+msgid "Autocomplete delay"
+msgstr "Verzögerung bei Autovervollständigung"
+
+#: ../options-page/search.php:26 ../options-page/tooltips.php:20
+#: ../options-page/tooltips.php:29
+msgctxt "milliseconds time unit"
+msgid "ms"
+msgstr "ms"
+
+#: ../options-page/search.php:27
+msgid ""
+"The delay in milliseconds between a keystroke occurs and the suggestions "
+"will be shown."
+msgstr ""
+"Die Verzögerung in Millisekunden zwischen dem Drücken einer Taste und dem "
+"erscheinen der Vorschläge."
+
+#: ../options-page/single-page.php:5
+#, php-format
+msgid "Display related %s"
+msgstr "Zeige ähnliche %s"
+
+#: ../options-page/single-page.php:7
+msgid "below the content"
+msgstr "unter dem Inhalt"
+
+#: ../options-page/single-page.php:8
+msgid "above the content"
+msgstr "über dem Inhalt"
+
+#: ../options-page/single-page.php:9
+#, php-format
+msgid "Do not show related %s."
+msgstr "Keine ähnlichen %s anzeigen."
+
+#: ../options-page/single-page.php:14
+#, php-format
+msgid "Number of related %s"
+msgstr "Anzahl ähnlicher %s"
+
+#: ../options-page/single-page.php:17
+#, php-format
+msgid "Number of related %s which should be shown."
+msgstr "Anzahl der anzuzeigenden ähnlichen %s."
+
+#: ../options-page/single-page.php:28
+msgid ""
+"Enables or disables the prefix filter above the title in the single view."
+msgstr ""
+"Aktiviert oder deaktiviert den Präfixfilter über dem Titel in der "
+"Einzelansicht."
+
+#: ../options-page/taxonomies.php:11
+#, php-format
+msgid "Categories could help you structuring your %s."
+msgstr "Kategorien sind hilfreich zur Strukturierung deiner %s."
+
+#: ../options-page/taxonomies.php:22
+#, php-format
+msgid "Tags are necessary to create relations between %s automatically."
+msgstr ""
+"Schlagworte sind notwendig, um die Relationen der %s automatisch berechnen "
+"zu können."
+
+#: ../options-page/tooltips.php:12
+msgid "Enables or disables the tooltips for item links on the frontend."
+msgstr "Aktiviert oder deaktiviert die Tooltips der Enzyklopädie im Frontend."
+
+#: ../options-page/tooltips.php:17
+msgid "Animation duration"
+msgstr "Animationsdauer"
+
+#: ../options-page/tooltips.php:21
+msgid "The duration for the opening and closing animations, in milliseconds."
+msgstr "Die Dauer der Öffnen- und Schließenanimation, in Millisekunden."
+
+#: ../options-page/tooltips.php:26
+msgid "Delay"
+msgstr "Verzögerung"
+
+#: ../options-page/tooltips.php:30
+msgid ""
+"Upon mouse interaction, this is the delay before the tooltip starts its "
+"opening and closing animations, in milliseconds."
+msgstr ""
+"Die Verzögerung zwischen Mausinteraktion und öffnen bzw. schließen des "
+"Tooltips, in Millisekunden."
+
+#: ../templates/encyclopedia-related-items.php:11
+#, php-format
+msgid "Related %s"
+msgstr "Ähnliche %s"
+
+#: ../widgets/items.php:11
+#, php-format
+msgid "A list of your %s."
+msgstr "Eine Liste deiner %s."
+
+#: ../widgets/items.php:49
+msgid "Number of terms:"
+msgstr "Anzahl der Einträge:"
+
+#: ../widgets/items.php:51
+msgid "Leave blank to show all terms."
+msgstr "Leer lassen, um alle anzuzeigen."
+
+#: ../widgets/items.php:55 ../widgets/taxonomies.php:71
+#: ../widgets/taxonomy-cloud.php:65
+msgid "Order by:"
+msgstr "Sortieren nach:"
+
+#: ../widgets/items.php:59
+msgid "Author"
+msgstr "Autor"
+
+#: ../widgets/items.php:60
+msgid "Date"
+msgstr "Zeitraum"
+
+#: ../widgets/items.php:61
+msgid "Last modification"
+msgstr "Aktualisierungszeit"
+
+#: ../widgets/items.php:62
+msgid "Random"
+msgstr "Zufall"
+
+#: ../widgets/items.php:63
+msgid "Comment Count"
+msgstr "Kommentaranzahl"
+
+#: ../widgets/items.php:64
+msgid "Menu Order"
+msgstr "Reihenfolge"
+
+#: ../widgets/items.php:69 ../widgets/taxonomies.php:82
+#: ../widgets/taxonomy-cloud.php:76
+msgid "Order:"
+msgstr "Reihenfolge:"
+
+#: ../widgets/related-items.php:11
+#, php-format
+msgid "%s: Related %s"
+msgstr "%s: Ähnliche %s"
+
+#: ../widgets/related-items.php:12
+#, php-format
+msgid "A list with the related %s."
+msgstr "Eine Liste der ähnlichen %s."
+
+#: ../widgets/related-items.php:48 ../widgets/taxonomies.php:60
+#: ../widgets/taxonomy-cloud.php:59
+msgid "Number:"
+msgstr "Anzahl:"
+
+#: ../widgets/related-items.php:50
+#, php-format
+msgid "The number of %s the widget should show."
+msgstr "Anzahl der anzuzeigenden %s."
+
+#: ../widgets/search.php:10
+#, php-format
+msgid "%s Search"
+msgstr "%s-Suche"
+
+#: ../widgets/search.php:11
+#, php-format
+msgid "A search form for your %s."
+msgstr "Ein Suchformular für deine %s."
+
+#: ../widgets/search.php:46
+msgid "Search mode:"
+msgstr "Suchmodus:"
+
+#: ../widgets/search.php:51
+msgid "Normal"
+msgstr "Normal"
+
+#: ../widgets/search.php:51
+#, php-format
+msgid ""
+"Will match all %s which contains the search phrase in the title or the "
+"content field."
+msgstr ""
+"Findet alle %s, die den Suchbegriff im Titel oder Inhaltsbereich enthalten."
+
+#: ../widgets/search.php:57
+msgid "Prefix"
+msgstr "Präfix"
+
+#: ../widgets/search.php:57
+#, php-format
+msgid "Will match all %s which title field starts with the search phrase."
+msgstr "Findet alle %s, deren Titel mit dem Suchbegriff beginnen."
+
+#: ../widgets/search.php:63
+msgid "Exact"
+msgstr "Exakt"
+
+#: ../widgets/search.php:63
+#, php-format
+msgid ""
+"Will match all %s which title or content field matches exactly the search "
+"phrase."
+msgstr ""
+"Findet alle %s, deren Titel oder Inhaltsbereich mit dem Suchbegriff "
+"übereinstimmen."
+
+#: ../widgets/taxonomies.php:10
+#, php-format
+msgid "%s Taxonomies"
+msgstr "%s-Klassifizierungen"
+
+#: ../widgets/taxonomies.php:11
+msgid "A list of your taxonomy terms."
+msgstr "Eine Liste mit deinen Klassifizierungen."
+
+#: ../widgets/taxonomies.php:51 ../widgets/taxonomy-cloud.php:50
+msgid "Taxonomy:"
+msgstr "Klassifizierung:"
+
+#: ../widgets/taxonomies.php:62 ../widgets/taxonomy-cloud.php:61
+msgid "Leave blank to show all."
+msgstr "Leer lassen, um alle anzuzeigen."
+
+#: ../widgets/taxonomies.php:67
+#, php-format
+msgid "Display number of %s."
+msgstr "Anzahl der %s anzeigen."
+
+#: ../widgets/taxonomies.php:74 ../widgets/taxonomy-cloud.php:68
+#, php-format
+msgid "Number of %s"
+msgstr "Anzahl der %s"
+
+#: ../widgets/taxonomies.php:76 ../widgets/taxonomy-cloud.php:70
+msgid "URL Slug"
+msgstr "URL-Slug"
+
+#: ../widgets/taxonomy-cloud.php:10
+#, php-format
+msgid "%s Taxonomy Cloud"
+msgstr "%s-Klassifizierungen (Wolke)"
+
+#: ../widgets/taxonomy-cloud.php:11
+msgid "A cloud of your most used taxonomy terms."
+msgstr "Eine Wortwolke deiner meist genutzten Klassifizierungen."
+
+#~ msgid "Gutenberg Editor"
+#~ msgstr "Gutenberg Editor"

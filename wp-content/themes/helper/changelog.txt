@@ -1,0 +1,37 @@
+** Changelog for helper WordPress theme **
+** Author: http://www.themewarrior.com **
+
+
+January 5th, 2017 -- Version 1.1.1
+- Remove WOW library due to causing layout error
+- Add box-shadow to header sub menu
+- Fix bug on Advanced Search Visual Composer element
+
+January 5th, 2017 -- Version 1.1.0
+- Update Visual Composer to 5.0.1
+- Update TGMPA class file
+- Lots of enhance one the theme layouts, typography and styles
+- Add new widget to display other knowledge base articles from the same category
+- Enable show/hide dates on Featured Articles Visual Composer  element
+- Realign Visual Composer homepage templates
+
+September 27nd, 2016 -- Version 1.0.4
+- Fix wrong plugin download url in functions.php
+
+September 22nd, 2016 -- Version 1.0.3
+- Minor layout UI changes
+- Update Visual Composer predefined templates
+- Update TGMPA file to v2.6.1
+- Move plugins to the cloud
+
+April 22nd, 2016 -- Version 1.0.2
+- Fix overlapped page/post title
+- Update Visual Composer to 4.11.2.1
+
+July 16th, 2015 -- Version 1.0.1
+- Rename theme from Guru to Helper
+- Display advanced search in every page using page-home.php
+- Update Visual Composer 4.6.1
+
+June 15th, 2015 -- Version 1.0.0
+- Theme is released
